@@ -10,3 +10,7 @@ An interactive mind map of every post on [dev.to/pengeszikra](https://dev.to/pen
 - Solid line: the post links or cites the other one. Dashed line: inferred.
 - Click a post, or move with ← ↑ → ↓, to see its 3-sentence summary and the reason for each connection.
 - `index.html` is a single self-contained file: pure HTML, no build step.
+
+## Updating
+
+Download the new bundle, then run `./publish.sh` in this repo. It takes the newest `.zip` in `~/Downloads`, or a path you pass to it, copies in the files, commits and pushes.
