@@ -8,6 +8,7 @@ An interactive mind map of every post on [dev.to/pengeszikra](https://dev.to/pen
 
 - 52 posts in 8 threads, with 65 connections
 - Solid line: the post links or cites the other one. Dashed line: inferred.
+- The outer columns hold the GitHub repos and npm packages the posts link or install, wired to those posts; click one to see which posts point to it.
 - Click a post, or move with ← ↑ → ↓, to see its 3-sentence summary and the reason for each connection.
 - `index.html` is a single self-contained file: pure HTML, no build step.
 
