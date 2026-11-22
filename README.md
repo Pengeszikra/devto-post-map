@@ -1,12 +1,12 @@
 # dev.to/pengeszikra :: post map
 
-An interactive mind map of every post on [dev.to/pengeszikra](https://dev.to/pengeszikra), from Aug 2020 to Oct 31, 2026, showing why each post connects to the others.
+An interactive mind map of every post on [dev.to/pengeszikra](https://dev.to/pengeszikra), from Aug 2020 to Nov 22, 2026, showing why each post connects to the others.
 
 **[→ Open the interactive map](https://pengeszikra.github.io/devto-post-map/)**
 
 [![Post map](mindmap.svg)](https://pengeszikra.github.io/devto-post-map/mindmap.svg)
 
-- 52 posts in 8 threads, with 65 connections
+- 59 posts in 10 threads, with 82 connections
 - Solid line: the post links or cites the other one. Dashed line: inferred.
 - The outer columns hold the GitHub repos and npm packages the posts link or install, wired to those posts; click one to see which posts point to it.
 - Click a post, or move with ← ↑ → ↓, to see its 3-sentence summary and the reason for each connection.
